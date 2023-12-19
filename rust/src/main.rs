@@ -14,7 +14,8 @@ impl ListNode {
 
 struct Solution {}
 
-impl Solution {}
+impl Solution {
+}
 
 fn main() {
     let solution = Solution {};
